@@ -21,7 +21,7 @@ public class Dbconnexion {
         //			String url ="jdbc:mysql://10.119.21.5/assosoft";
 //      String url ="jdbc:mysql://10.119.21.78:3306/assosoft";
 			String login="root";
-			String pass="";
+			String pass="testroot";
 			Connection cn =null;
 			
 			try {
